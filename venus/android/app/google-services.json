@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "410649775381",
+    "firebase_url": "https://aismile-v1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "aismile-v1",
+    "storage_bucket": "aismile-v1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410649775381:android:6c7be92178cb5881162d1c",
+        "android_client_info": {
+          "package_name": "com.example.aismile_apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410649775381-b1s0cm5cinbhh5rmq3smi6je5463d25n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiVuMWqiKNR2AXZTyucGkMwAPpJyCS3Ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410649775381-b1s0cm5cinbhh5rmq3smi6je5463d25n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "410649775381-7n9nr2nukqr70dhft5rp439fgmkelc1v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.aismileApps"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410649775381:android:759926708e31e484162d1c",
+        "android_client_info": {
+          "package_name": "com.example.venus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410649775381-b1s0cm5cinbhh5rmq3smi6je5463d25n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiVuMWqiKNR2AXZTyucGkMwAPpJyCS3Ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410649775381-b1s0cm5cinbhh5rmq3smi6je5463d25n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "410649775381-7n9nr2nukqr70dhft5rp439fgmkelc1v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.aismileApps"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

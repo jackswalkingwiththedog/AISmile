@@ -1,0 +1,5 @@
+class TTexts {
+  TTexts._();
+
+  
+}
